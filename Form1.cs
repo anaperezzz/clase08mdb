@@ -136,5 +136,10 @@ namespace clase08mdb
                 MessageBox.Show("Error al eliminar el registro: " + ex.Message);
             }
         }
+
+        private void label4_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

@@ -62,5 +62,10 @@ namespace clase08mdb
         {
 
         }
+
+        private void tabPage2_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
