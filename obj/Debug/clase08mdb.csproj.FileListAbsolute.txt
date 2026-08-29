@@ -1,0 +1,12 @@
+C:\Users\anape\OneDrive\Documentos\Practicas c#\clase08mdb\bin\Debug\clase08mdb.exe.config
+C:\Users\anape\OneDrive\Documentos\Practicas c#\clase08mdb\bin\Debug\clase08mdb.exe
+C:\Users\anape\OneDrive\Documentos\Practicas c#\clase08mdb\bin\Debug\clase08mdb.pdb
+C:\Users\anape\OneDrive\Documentos\Practicas c#\clase08mdb\obj\Debug\clase08mdb.csproj.AssemblyReference.cache
+C:\Users\anape\OneDrive\Documentos\Practicas c#\clase08mdb\obj\Debug\clase08mdb.Form1.resources
+C:\Users\anape\OneDrive\Documentos\Practicas c#\clase08mdb\obj\Debug\clase08mdb.Form2.resources
+C:\Users\anape\OneDrive\Documentos\Practicas c#\clase08mdb\obj\Debug\clase08mdb.csproj.GenerateResource.cache
+C:\Users\anape\OneDrive\Documentos\Practicas c#\clase08mdb\obj\Debug\clase08mdb.csproj.CoreCompileInputs.cache
+C:\Users\anape\OneDrive\Documentos\Practicas c#\clase08mdb\obj\Debug\clase08mdb.exe
+C:\Users\anape\OneDrive\Documentos\Practicas c#\clase08mdb\obj\Debug\clase08mdb.pdb
+C:\Users\anape\OneDrive\Documentos\Practicas c#\clase08mdb\obj\Debug\clase08mdb.FrmMenuPrincipal.resources
+C:\Users\anape\OneDrive\Documentos\Practicas c#\clase08mdb\obj\Debug\clase08mdb.Properties.Resources.resources
